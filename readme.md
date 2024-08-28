@@ -10,10 +10,6 @@ This project is focused on building a model to predict housing prices based on v
 - [Installation](#installation)
 - [Usage](#usage)
 - [Web Application](#web-application)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
